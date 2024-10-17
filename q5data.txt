@@ -1,0 +1,2 @@
+The hottest year was 2007 with a temperature of 9.732167ºC.
+The coldest year was 1768 with a temperature of 6.781333ºC.
